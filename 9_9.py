@@ -1,5 +1,5 @@
 result1,result2='',''
-for i in range(0,10,3): #(1) 1,2,3,4,5,6,7,8,9
+for i in range(0,7,3): #(1) 0,3,6,
     # result1=''
     for j in range(1,10): #(1) 1,2,3,4,5,6,7,8,9
         result1=''
